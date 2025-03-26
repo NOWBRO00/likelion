@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+.frontend{
+    border: 1px solid black;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 30px;
+    gap: 50px;
+    background-color: rgb(219, 255, 127);
+}
+
+.title{
+    color: aqua;
+    font-size: 40px;
+    font-weight: bold;
+    gap: 50px;
+}
+
+.content{
+    font-size: 25px;
+    font-weight: lighter;
+    color: blue;
+    gap: 50px;
+}
+
+.time_section{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
